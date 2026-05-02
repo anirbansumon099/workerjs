@@ -1,5 +1,5 @@
 {
-  "name": "yt-proxy-worker",
+  "name": "workerjs",
   "main": "index.js",
   "compatibility_date": "2024-05-02"
 }
